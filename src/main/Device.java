@@ -1,0 +1,8 @@
+package main;
+
+public interface Device {
+	void turnOn();
+	void turnOff();
+	void increase();
+	void decrease();
+}
